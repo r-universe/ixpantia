@@ -2,8 +2,5 @@
   {
     "package": "gitear",
     "oncran": true
-  },
-  {
-    "package": "lacrmr"
   }
 ]
