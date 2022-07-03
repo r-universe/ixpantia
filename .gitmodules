@@ -8,6 +8,11 @@
 	url = https://github.com/ixpantia/gitear
 	shallow = true
 	registered = true
+[submodule "ixplorer"]
+	path = ixplorer
+	url = https://github.com/ixpantia/ixplorer
+	shallow = true
+	registered = true
 [submodule "lacrmr"]
 	path = lacrmr
 	url = https://github.com/ixpantia/lacrmr
