@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "googleErrorReportingR",
+    "oncran": true
+  },
+  {
     "package": "ixplorer",
     "oncran": true
   },

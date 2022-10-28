@@ -8,6 +8,11 @@
 	url = https://github.com/ixpantia/gitear
 	shallow = true
 	registered = true
+[submodule "googleErrorReportingR"]
+	path = googleErrorReportingR
+	url = https://github.com/ixpantia/googleerrorreportingr
+	shallow = true
+	registered = true
 [submodule "ixplorer"]
 	path = ixplorer
 	url = https://github.com/ixpantia/ixplorer
