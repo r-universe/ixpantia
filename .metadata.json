@@ -1,10 +1,10 @@
 [
   {
-    "package": "gitear",
+    "package": "googleErrorReportingR",
     "oncran": true
   },
   {
-    "package": "googleErrorReportingR",
+    "package": "gitear",
     "oncran": true
   },
   {
