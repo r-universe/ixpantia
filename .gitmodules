@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "gitear"]
 	path = gitear
 	url = https://github.com/ixpantia/gitear
-	shallow = true
-	registered = true
 [submodule "googleErrorReportingR"]
 	path = googleErrorReportingR
 	url = https://github.com/ixpantia/googleerrorreportingr
-	shallow = true
-	registered = true
 [submodule "ixplorer"]
 	path = ixplorer
 	url = https://github.com/ixpantia/ixplorer
-	shallow = true
-	registered = true
 [submodule "lacrmr"]
 	path = lacrmr
 	url = https://github.com/ixpantia/lacrmr
-	shallow = true
-	registered = true
