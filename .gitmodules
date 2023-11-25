@@ -14,3 +14,6 @@
 [submodule "lacrmr"]
 	path = lacrmr
 	url = https://github.com/ixpantia/lacrmr
+[submodule "orbweaver"]
+	path = orbweaver
+	url = https://github.com/ixpantia/orbweaver
